@@ -1,2 +1,2 @@
 # plvc-register
-an enrolment system
+An enrolment system for my college.
